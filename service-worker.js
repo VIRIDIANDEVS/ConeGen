@@ -1,4 +1,4 @@
-const appPrefix = 'TrackGen';
+const appPrefix = 'ConeGen';
 const appVersion = 'v1.0.7';
 const cacheName = `${appPrefix}-${appVersion}`;
 const foldersToCache = ['media', 'js', 'css'];
