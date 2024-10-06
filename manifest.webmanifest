@@ -1,7 +1,7 @@
 {
-    "name": "TrackGen",
-    "short_name": "TrackGen",
-    "description": "TrackGen is a web application that allows you to generate tracks for tropical cyclones.",
+    "name": "ConeGen",
+    "short_name": "ConeGen",
+    "description": "ConeGen is a web application that allows you to generate tracks and cones of uncertainty for tropical cyclones.",
     "start_url": "./index.html",
     "scope": "/",
     "icons": [
